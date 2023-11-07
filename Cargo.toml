@@ -1,5 +1,5 @@
 [package]
-name = "ballon_bonanza"
+name = "ballons"
 version = "0.1.0"
 authors = ["Matej Leban <matej.leban@5insights.com>"]
 edition = "2018"
